@@ -1,2 +1,2 @@
-# AzureDevOps_CICD_2024
-AzureDevOps_CICD_2024
+# Automate Azure Cloud using Terraform (IaC) & Azure DevOps Pipeline (CICD)
+Automate Azure Cloud using Terraform (IaC) & Azure DevOps Pipeline (CICD)
